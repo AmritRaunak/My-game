@@ -1,1 +1,1 @@
-# My-game-finaly
+# MY-GAME-part-1
